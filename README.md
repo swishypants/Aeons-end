@@ -9,3 +9,7 @@ v1.0
 
 v2.0
 - Market generator
+
+v3.0
+- Boss nemesis token tracker
+- Boss nemesis card tracker (including nemesis card count downs and minion health)
